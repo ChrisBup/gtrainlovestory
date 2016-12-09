@@ -1,5 +1,7 @@
 # Gtrainlovestory
 
+View at [gtrainlovestory.com](www.gtrainlovestory.com)
+
 Based on [Sedna](http://tympanus.net/codrops/?p=24660), a template from [Codrops](http://www.codrops.com).
 
 ### Bootstrap
